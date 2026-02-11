@@ -128,4 +128,5 @@ async def nasir_engine(ev):
 
 client.start()
 print("✅ كل شيء جاهز.. اخلص")
+
 client.run_until_disconnected()
